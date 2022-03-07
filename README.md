@@ -8,8 +8,6 @@ I am very passionate about GIS, collect data, updating data, web mapping, and GI
 
 ![Visitor Count](https://profile-counter.glitch.me/{maspannn}/count.svg)
 
-<img align='right' src = "https://github.com/maspannn/github-stats-transparent/blob/output/generated/languages.svg">
-
 ## 🔍 You Can Find Me at
 
 <p>
