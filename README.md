@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Panji 🧑🏻
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"><br>I'm Panji 🧑🏻
 
 <p align="justify">
 I am very passionate about GIS, collect data, updating data, web mapping, and GIS analysis for bussiness.
