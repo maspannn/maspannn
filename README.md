@@ -1,8 +1,7 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"><br>I'm Panji 🧑🏻
+# Hi! I'm Mas Pannn<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
 <p align="justify">
-I am very passionate about GIS, collect data, updating data, web mapping, and GIS analysis for bussiness.
-</p>
+I am very passionate about Web Developer, Custom Web Design, GIS, Collect Data, Updating data, and Web Mapping.</p>
 
 <!-- ## 👁‍🗨 Visitors Count -->
 
