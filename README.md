@@ -1,7 +1,7 @@
-# Hi! I'm Mas Pannn<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">&nbsp;Hi! I'm Mas Pannn
 
 <p align="justify">
-I am very passionate about Web Developer, Custom Web Design, GIS, Collect Data, Updating data, and Web Mapping.</p>
+I am very passionate about Web Developer, Custom Web Design, Collect Data, Updating Data, GIS & Web Mapping</p>
 
 <!-- ## 👁‍🗨 Visitors Count -->
 
