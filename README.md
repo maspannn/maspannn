@@ -1,8 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">&nbsp;Hi! I'm Mas Pannn
 
 <p align="justify">
-I am very passionate about Web Developer, Custom Web Design, Collect Data, Updating Data, GIS & Web Mapping</p>
-
+I am very passionate about Front End Developer, Custom Web Design, Collect Data, Updating Data, and working with HTML, CSS & Javascript
 <!-- ## 👁‍🗨 Visitors Count -->
 
 ![Visitor Count](https://profile-counter.glitch.me/{maspannn}/count.svg)
